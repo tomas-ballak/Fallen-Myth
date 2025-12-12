@@ -1,0 +1,22 @@
+[
+	{
+		"id": "swordsman",
+		"name": "Swordsman",
+		"hp": 20,
+		"attack": 5,
+		"defense": 3,
+		"movement": 3,
+		"range": 1,
+		"sprite": "res://render/units/swordsman_placeholder.png"
+	},
+	{
+		"id": "archer",
+		"name": "Archer",
+		"hp": 15,
+		"attack": 4,
+		"defense": 2,
+		"movement": 2,
+		"range": 3,
+		"sprite": "res://render/units/archer_placeholder.png"
+	}
+]
